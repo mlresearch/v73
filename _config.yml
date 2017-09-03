@@ -5,10 +5,10 @@ shortname: AMBN
 sections:
 - name: Preface
   title: Preface
-- name: Contributed Papers
-  title: Contributed Papers
 - name: Invited Papers
   title: Invited Papers
+- name: Contributed Papers
+  title: Contributed Papers
 volume: 73
 year: '2017'
 start: 2017-09-20
