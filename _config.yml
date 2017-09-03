@@ -22,8 +22,10 @@ id: AMBN-2017
 month: 0
 cycles: false
 editor:
-- given: Antti Hyttinen
-  family: Joe Suzuki
+- given: Antti
+  family: Hyttinen
+- given: Joe
+  family: Suzuki
 - given: Brandon
   family: Malone
 title: Proceedings of Machine Learning Research
@@ -33,7 +35,8 @@ description: |
   Published as Volume 73 by the Proceedings of Machine Learning Research on 03 September 2017.
 
   Volume Edited by:
-    Antti Hyttinen Joe Suzuki
+    Antti Hyttinen
+    Joe Suzuki
     Brandon Malone
 
   Series Editors:
