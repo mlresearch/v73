@@ -2,14 +2,14 @@
 title: Fast Compilation of s-t Paths on a Graph for Counting and Enumeration
 section: Contributed Papers
 abstract: "In this paper, we propose a new method to compile $s$-$t$ simple paths
-  on a graph\r using a new compilation method called merging frontier based search.
-  Recently, Nishino et al. proposed a top-down construction algorithm,\r which compiles
+  on a graph using a new compilation method called merging frontier based search.
+  Recently, Nishino et al. proposed a top-down construction algorithm, which compiles
   $s$-$t$ simple paths into a Zero-suppressed SDD (ZSDD),  and they showed that this
   method is more efficient than simpath by Knuth.\r However, since the method of Nishino
   et al. uses ZSDD as a tractable representation, it requires complicated steps for
-  compilation. In this paper, we propose z-st-d-DNNF, which is a super set of ZSDD.\r
+  compilation. In this paper, we propose z-st-d-DNNF, which is a super set of ZSDD.
   By using this method instead of ZSDD, we show that more efficient $s$-$t$ simple
-  paths compilation can be realized.\r "
+  paths compilation can be realized. "
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: teruji-sugaya17a
@@ -21,8 +21,10 @@ page: 129-140
 order: 129
 cycles: false
 author:
-- given: Norihito Yasuda
-  family: Teruji Sugaya
+- given: Norihito 
+  family: Yasuda
+- given: Teruji
+  family: Sugaya
 - given: Shin-Ichi
   family: Minato
 date: 2017-09-03
