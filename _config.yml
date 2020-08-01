@@ -15,6 +15,8 @@ start: 2017-09-20
 end: 2017-09-22
 published: 2017-09-03
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Kyoto University, Kyoto, Japan
 layout: proceedings
 series: Proceedings of Machine Learning Research
